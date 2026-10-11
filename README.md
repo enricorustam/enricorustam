@@ -6,13 +6,13 @@ I make sure software does what the business actually needs: from analysing requi
 
 ## About me
 
-- 🧪 Product Quality Assurance at PT Adi Consulting
+- 🖊️ Product Quality Assurance at PT Adi Consulting
 - 🎓 M.Sc. Information Technology, Institut Teknologi Bandung (ITB)
 - 🎓 B.Sc. Computer Science, Telkom University
 
 ## What I work with
 
-- **QA:** test case design, bug reporting, test planning
+- **QA:** test design, bug reporting, test planning, BDD test automation
 - **Business analysis:** requirements, user stories, business process modelling
 - **Data & code:** SQL, Python, JavaScript
 
@@ -20,9 +20,10 @@ I make sure software does what the business actually needs: from analysing requi
 
 | Project | What it is |
 | --- | --- |
+| [saucedemo-cucumber-playwright](https://github.com/enricorustam/saucedemo-cucumber-playwright) | BDD test automation with Cucumber (Gherkin) and Playwright |
 | [Basdat_Project](https://github.com/enricorustam/Basdat_Project) | SQL database design and business process diagrams |
 | [KNN-AI_Tupro3](https://github.com/enricorustam/KNN-AI_Tupro3) | K-Nearest Neighbors classifier in Python |
 | [Fuzzy-AI_Tupro2](https://github.com/enricorustam/Fuzzy-AI_Tupro2) | Fuzzy logic implementation in Python |
 | [SA-AI_Tupro1](https://github.com/enricorustam/SA-AI_Tupro1) | Simulated annealing in Python |
 
-> 🚧 Currently building a QA + BA portfolio project (user stories, test cases, and test automation). Coming soon.
+> 🚧 Next: user stories and test cases for the same Sauce Demo case study.
